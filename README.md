@@ -1,5 +1,7 @@
 # 技术分享PPT
 
+[golang高级讲义](golang_advance.pdf)
+
 [golang高性能实战](golang_fast.pdf)
 
 [mysql快速讲义](mysql_fast.pdf)
@@ -12,7 +14,7 @@
 
 [cdn设计原理](cdn_design.pdf)
 
-[分析mysql acid设计实现](acid.pdf)
+[分析mysql acid设计实现](mysql_acid.pdf)
 
 [Python gil那些事儿](python_gil.pdf)
 
